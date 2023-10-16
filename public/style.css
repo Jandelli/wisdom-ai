@@ -1,0 +1,25 @@
+@keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+  
+  .animate-gradient {
+    background: linear-gradient(90deg, #b0b0b0, #337cea);
+    background-size: 600% 100%;
+    animation: gradientAnimation 5s infinite;
+  }
+
+  .buttonGradient {
+    /* Button styles */
+    transition: background-color 0.3s, transform 0.3s; /* Add transitions for smooth hover effects */
+  }
+  
+  .buttonGradient:hover {
+    /* Hover styles */
+    background-color: #60a5fa; /* Change background color on hover */
+    transform: scale(1.05); /* Scale the button slightly on hover */
+  }

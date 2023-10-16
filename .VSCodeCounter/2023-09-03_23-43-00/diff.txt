@@ -1,0 +1,35 @@
+Date : 2023-09-03 23:43:00
+Directory : c:\Users\Administrator\Desktop\VsCode\ai-companion\scripts
+Total : 8 files,  -133 codes, 0 comments, -35 blanks, all -168 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| TypeScript |          8 |       -133 |          0 |        -35 |       -168 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                      |          8 |       -133 |          0 |        -35 |       -168 |
+| . (Files)                                                              |          2 |         22 |          0 |          5 |         27 |
+| ..                                                                     |          6 |       -155 |          0 |        -40 |       -195 |
+| ..\lib                                                                 |          6 |       -155 |          0 |        -40 |       -195 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                               | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\memory.ts       | TypeScript |        -97 |          0 |        -19 |       -116 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\prismadb.ts     | TypeScript |         -7 |          0 |         -4 |        -11 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\rate-limit.ts   | TypeScript |        -11 |          0 |         -3 |        -14 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\stripe.ts       | TypeScript |         -5 |          0 |         -2 |         -7 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\subscription.ts | TypeScript |        -27 |          0 |         -9 |        -36 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\utils.ts        | TypeScript |         -8 |          0 |         -3 |        -11 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\scripts\chars.ts    | TypeScript |          0 |          0 |          1 |          1 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\scripts\seed.ts     | TypeScript |         22 |          0 |          4 |         26 |
+| Total                                                                  |            |       -133 |          0 |        -35 |       -168 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+

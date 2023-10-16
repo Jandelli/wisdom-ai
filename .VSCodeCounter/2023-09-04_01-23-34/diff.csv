@@ -1,0 +1,75 @@
+"filename", "language", "JSON with Comments", "JavaScript", "XML", "Markdown", "JSON", "TypeScript", "TypeScript JSX", "CSS", "comment", "blank", "total"
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\.eslintrc.json", "JSON", 0, 0, 0, 0, 3, 0, 0, 0, 0, 1, 4
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\README.md", "Markdown", 0, 0, 0, 72, 0, 0, 0, 0, 0, 34, 106
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(auth)\(routes)\sign-in\[[...sign-in]]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 7, 0, 0, 3, 10
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(auth)\(routes)\sign-up\[[...sign-up]]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 7, 0, 0, 3, 10
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(auth)\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 12, 0, 0, 1, 13
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(chat)\(routes)\chat\[chatId]\components\client.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 65, 0, 0, 12, 77
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(chat)\(routes)\chat\[chatId]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 44, 0, 0, 11, 55
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(chat)\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 12, 0, 0, 2, 14
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(root)\(routes)\companion\[companionId]\components\companion-form.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 228, 0, 0, 14, 242
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(root)\(routes)\companion\[companionId]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 33, 0, 0, 12, 45
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(root)\(routes)\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 41, 0, 0, 6, 47
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(root)\(routes)\settings\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 15, 0, 0, 4, 19
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\(root)\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 22, 0, 0, 3, 25
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\api\chat\[chatId]\route.ts", "TypeScript", 0, 0, 0, 0, 0, 117, 0, 0, 5, 28, 150
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\api\companion\[companionId]\route.ts", "TypeScript", 0, 0, 0, 0, 0, 68, 0, 0, 0, 14, 82
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\api\companion\route.ts", "TypeScript", 0, 0, 0, 0, 0, 37, 0, 0, 0, 9, 46
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\api\stripe\route.ts", "TypeScript", 0, 0, 0, 0, 0, 58, 0, 0, 0, 10, 68
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\api\webhook\route.ts", "TypeScript", 0, 0, 0, 0, 0, 56, 0, 0, 0, 12, 68
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\globals.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 61, 0, 23, 84
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\app\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 32, 0, 0, 6, 38
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components.json", "JSON", 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 16
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\bot-avatar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 13, 0, 0, 3, 16
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\categories.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 74, 0, 0, 9, 83
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\chat-form.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 33, 0, 0, 4, 37
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\chat-header.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 86, 0, 0, 7, 93
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\chat-message.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 59, 0, 0, 8, 67
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\chat-messages.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 54, 0, 0, 10, 64
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\companions.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 65, 0, 0, 4, 69
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\image-upload.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 55, 0, 0, 9, 64
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\mobile-sidebar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 19, 0, 0, 3, 22
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\mode-toggle.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 36, 0, 0, 5, 41
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\navbar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 42, 0, 0, 7, 49
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\pro-modal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 66, 0, 0, 10, 76
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\search-input.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 40, 0, 0, 12, 52
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\sidebar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 64, 0, 0, 9, 73
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\subscription-button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 36, 0, 0, 8, 44
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\theme-provider.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 6, 0, 0, 3, 9
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\avatar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 44, 0, 0, 7, 51
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 52, 0, 0, 6, 58
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\card.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 71, 0, 0, 9, 80
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 111, 0, 0, 13, 124
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\dropdown-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 182, 0, 0, 19, 201
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\form.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 152, 0, 0, 25, 177
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\input.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 21, 0, 0, 5, 26
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\label.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 21, 0, 0, 6, 27
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\select.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 109, 0, 0, 13, 122
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\separator.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 27, 0, 0, 5, 32
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\sheet.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 129, 0, 0, 16, 145
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\tabs.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 48, 0, 0, 8, 56
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\textarea.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 20, 0, 0, 5, 25
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\toast.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 115, 0, 0, 13, 128
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\toaster.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 32, 0, 0, 4, 36
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\tooltip.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 23, 0, 0, 8, 31
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\ui\use-toast.ts", "TypeScript", 0, 0, 0, 0, 0, 159, 0, 0, 3, 31, 193
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\components\user-avatar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 11, 0, 0, 5, 16
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\hooks\use-debounce.ts", "TypeScript", 0, 0, 0, 0, 0, 11, 0, 0, 0, 5, 16
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\hooks\use-pro-modal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 11, 0, 0, 3, 14
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\memory.ts", "TypeScript", 0, 0, 0, 0, 0, 97, 0, 0, 0, 19, 116
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\prismadb.ts", "TypeScript", 0, 0, 0, 0, 0, 7, 0, 0, 0, 4, 11
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\rate-limit.ts", "TypeScript", 0, 0, 0, 0, 0, 11, 0, 0, 0, 3, 14
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\stripe.ts", "TypeScript", 0, 0, 0, 0, 0, 5, 0, 0, 0, 2, 7
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\subscription.ts", "TypeScript", 0, 0, 0, 0, 0, 27, 0, 0, 0, 9, 36
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\utils.ts", "TypeScript", 0, 0, 0, 0, 0, 8, 0, 0, 0, 3, 11
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\middleware.ts", "TypeScript", 0, 0, 0, 0, 0, 7, 0, 0, 3, 3, 13
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\next.config.js", "JavaScript", 0, 11, 0, 0, 0, 0, 0, 0, 1, 2, 14
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\package-lock.json", "JSON", 0, 0, 0, 0, 7619, 0, 0, 0, 0, 1, 7620
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\package.json", "JSON", 0, 0, 0, 0, 67, 0, 0, 0, 0, 1, 68
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\postcss.config.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\public\next.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\public\placeholder.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\public\vercel.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\tailwind.config.js", "JavaScript", 0, 75, 0, 0, 0, 0, 0, 0, 1, 0, 76
+"c:\Users\Administrator\Desktop\VsCode\ai-companion\tsconfig.json", "JSON with Comments", 26, 0, 0, 0, 0, 0, 0, 0, 2, 1, 29
+"Total", "-", 26, 92, 3, 72, 7705, 668, 2445, 61, 15, 574, 11661

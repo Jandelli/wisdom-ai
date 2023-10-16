@@ -1,0 +1,30 @@
+Date : 2023-09-03 23:42:57
+Directory : c:\Users\Administrator\Desktop\VsCode\ai-companion\lib
+Total : 6 files,  155 codes, 0 comments, 40 blanks, all 195 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| TypeScript |          6 |        155 |          0 |         40 |        195 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                      |          6 |        155 |          0 |         40 |        195 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                               | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\memory.ts       | TypeScript |         97 |          0 |         19 |        116 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\prismadb.ts     | TypeScript |          7 |          0 |          4 |         11 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\rate-limit.ts   | TypeScript |         11 |          0 |          3 |         14 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\stripe.ts       | TypeScript |          5 |          0 |          2 |          7 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\subscription.ts | TypeScript |         27 |          0 |          9 |         36 |
+| c:\Users\Administrator\Desktop\VsCode\ai-companion\lib\utils.ts        | TypeScript |          8 |          0 |          3 |         11 |
+| Total                                                                  |            |        155 |          0 |         40 |        195 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
