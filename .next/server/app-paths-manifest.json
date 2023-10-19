@@ -1,1 +1,8 @@
-{}
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/stripe/route": "app/api/stripe/route.js",
+  "/api/webhook/route": "app/api/webhook/route.js",
+  "/(root)/(routes)/page": "app/(root)/(routes)/page.js",
+  "/(root)/(routes)/settings/page": "app/(root)/(routes)/settings/page.js",
+  "/(root)/(routes)/companion/[companionId]/page": "app/(root)/(routes)/companion/[companionId]/page.js"
+}
